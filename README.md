@@ -1,11 +1,7 @@
-![ƀ](/images/icon.png) bhash for Android
+![ƀ](/images/icon.png) bhash for Android (WIP)
 ----------------------------------
 
-[![Get it on Google Play](/images/icon-google-play.png)](https://play.google.com/store/apps/details?id=com.bhash)
-
-### bitcoin done right
-
-This is the Android port of the bhash iOS app, which can be found [here](https://github.com/bhash/bhash/).
+### this project is still in development, do not test with large amounts of hash
 
 ### a completely standalone bitcoin wallet
 
